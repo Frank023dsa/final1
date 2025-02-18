@@ -1,0 +1,15 @@
+{
+  "name": "final",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.21.2",
+    "init": "^0.1.2"
+    
+  },
+  "scripts": {
+    "start": "nodemon node.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
